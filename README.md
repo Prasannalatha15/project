@@ -1,2 +1,2 @@
 # project
-sample project 
+sample java project 
